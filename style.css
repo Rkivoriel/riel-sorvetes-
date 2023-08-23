@@ -1,0 +1,28 @@
+p {
+text-align: center;
+}
+
+body {
+     background: #CCCCCC
+}
+
+.principal{
+     background: #b8b6b6;
+     padding: 30px;
+}
+
+em strong {
+color: #FF0000;
+}
+
+.itens {
+   font-style: italic;
+}
+
+h1 {
+text-align: center;
+}
+
+p {
+    font-size: 20px;
+}    
