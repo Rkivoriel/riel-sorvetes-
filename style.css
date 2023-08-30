@@ -19,9 +19,19 @@ color: #FF0000;
    font-style: italic;
 }
 
-h1 {
+.beneficio {
+     background:  #FFFFFF;
+     padding: 30px;
+}
+
+h2 {
 text-align: center;
 }
+ul {
+     display: inline-block;
+     vertical-alingn: top;
+     width: 20%;
+     
 
 p {
     font-size: 20px;
