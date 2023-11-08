@@ -38,6 +38,7 @@ padding: 50px 0;
 
 }
 
+
 .produto-descricao {
   font-size: 18px;
 
@@ -48,4 +49,14 @@ padding: 50px 0;
   font-wight: bold;
   margin-top: 10px;
 
+}
+
+.produtos li { 
+  display: inline-block;
+  text-aling: center;
+  width: 30%
+  vertical-aling: top;
+  background: #CCCCCC;
+  matgin: 0 1.5%
+  padding: 30px 20px;
 }
